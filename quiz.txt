@@ -1,0 +1,37 @@
+*** Questions and options ***
+
+
+
+q1:	  What is the name of TheAbuja    Intl. airport?      
+    option1:   Nnamdi Azikiwe
+    option2:  Yakubu Gowon 
+    option3:  Alele Williams
+    option4:  Muhammadu Buhari
+
+q2: Who is the governor of Rivers state?
+    option1:   Dave Umahi
+    option2:   Nyesom Wike
+    option3:   Adoke Peterside
+    option4:   Ifeanyi Okowa
+
+q3:	What is the name of the current President’s wife?
+    option1:   Patience Jonathan
+    option2:   Aisha Babangida
+    option3:   Aisha Buhari
+    option4:   Ajoke Murtala
+
+q4:	What is the full meaning of EFCC?
+    option1:  Economic and fault finding commission
+    option2:  Economic and financial crimes commission
+    option3:  Economic and fact finding commission
+    option4:  Eco and friendly fact commission
+
+q5:	How many states are there in Nigeria
+    option1:	42
+    option2:	36
+    option3:    38
+    option4:    34
+
+Good Try!!!
+You Got 3 Answers out of 5 Questions correctly.
+Want to Try Again?
